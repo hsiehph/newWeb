@@ -1,9 +1,10 @@
 ---
-layout: single
-title: 
+layout: home
 author_profile: true
+title: "Cross-Validated"
 header:
-    overlay_image: /assets/images/101516_hybrids_opener_free.JamesCarey.v2.png
-    caption: "Credit to [James Carey](https://www.debutart.com/artist/james-carey)"
+    og_image: /assets/images/cross-val-logo-v4.jpg
+    overlay_image: /assets/images/joel-filipe-small-warmer.jpg
+    caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
 classes: wide
 ---
