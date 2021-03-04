@@ -7,7 +7,6 @@ author_profile: true
 header:
     overlay_image: /assets/images/101516_hybrids_opener_free.JamesCarey.v4.png
     caption: "Photo credit: [James Carey](https://https://www.debutart.com/artist/james-carey)"
-classes: wide
 ---
 
 ### Preprints
