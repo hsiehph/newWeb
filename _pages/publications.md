@@ -2,7 +2,6 @@
 layout: single
 permalink: /publications/
 title: "Publications"
-#excerpt: "Publications"
 author_profile: true
 header:
     overlay_image: /assets/images/101516_hybrids_opener_free.JamesCarey.v5.png

@@ -6,7 +6,6 @@ header:
     overlay_image: /assets/images/101516_hybrids_opener_free.JamesCarey.v5.png
     caption: "Photo credit: [James Carey](https://https://www.debutart.com/artist/james-carey)"
 author_profile: true
-classes: wide
 date: May 15, 2020
 
 feature_row1-1:
