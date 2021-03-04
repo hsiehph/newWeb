@@ -207,7 +207,7 @@
   background: #000;
   text-align: right;
   z-index: 5;
-  opacity: 0.4;
+  opacity: 0.3;
   border-radius: $border-radius 0 0 0;
 
   @include breakpoint($large) {
@@ -225,6 +225,9 @@
    ========================================================================== */
 
 .page__share {
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid $border-color;
 
   @include breakpoint(max-width $small) {
     .btn span {
