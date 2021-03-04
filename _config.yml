@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "PingHsun Hsieh"
+title                    : ""
 title_separator          : "|"
 name                     : &name "PingHsun Hsieh"
 description              : &description "NIH K99/R00 fellow at the University of Washington"
