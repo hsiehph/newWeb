@@ -3,8 +3,8 @@ layout: single
 title: "Portfolio"
 permalink: /portfolio/
 header:
-    overlay_image: /assets/images/joel-filipe-small-warmer.jpg
-    caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
+    overlay_image: /assets/images/101516_hybrids_opener_free.JamesCarey.v5.png
+    caption: "Photo credit: [James Carey](https://https://www.debutart.com/artist/james-carey)"
 author_profile: true
 classes: wide
 date: May 15, 2020
