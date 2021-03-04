@@ -33,7 +33,7 @@
   /* button colors */
   $buttoncolors:
   (primary, $primary-color),
-  (inverse, #fff),
+  (inverse, $gray),
   (light-outline, transparent),
   (success, $success-color),
   (warning, $warning-color),
