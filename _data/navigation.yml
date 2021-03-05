@@ -6,8 +6,8 @@ main:
     url: /index.html
   - title: "About"
     url: /about/
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Research"
+    url: /research/
   - title: "Publications"
     url: /publications/  
     #  - title: "Certificates"

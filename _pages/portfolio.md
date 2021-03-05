@@ -1,12 +1,11 @@
 ---
 layout: single
-title: "Portfolio"
-permalink: /portfolio/
+title: "Research"
+permalink: /research/
 header:
     overlay_image: /assets/images/101516_hybrids_opener_free.JamesCarey.v5.png
     caption: "Photo credit: [James Carey](https://https://www.debutart.com/artist/james-carey)"
 author_profile: true
-date: May 15, 2020
 
 feature_row1-1:
   - image_path: assets/images/posts/starbucks-cluster-conversion-rates.png
