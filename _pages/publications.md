@@ -9,13 +9,13 @@ header:
 ---
 ### Preprints
 
-**Hsieh PH**, Dang V, Vollger MR, Mao Y, Huang T, Dishuck PC, Baker C, Cantsilieris S, Lewis AP, Munson KM, Sorensen M, Welch AE, Underwood JG, Eichler EE. (2020) Opposing selective forces operating on human-specific duplicated *TCAF* genes in Neanderthals and humans. (*In revision*) [Link](https://assets.researchsquare.com/files/rs-77798/v1_stamped.pdf){: .btn .btn--info .btn--small}
+**Hsieh PH**, Dang V, Vollger MR, Mao Y, Huang T, Dishuck PC, Baker C, Cantsilieris S, Lewis AP, Munson KM, Sorensen M, Welch AE, Underwood JG, Eichler EE. (2020) Opposing selective forces operating on human-specific duplicated *TCAF* genes in Neanderthals and humans. (*In review*) [Link](https://assets.researchsquare.com/files/rs-77798/v1_stamped.pdf){: .btn .btn--info .btn--small}
 {: .notice--info}
 
 Johansson PA, Brattås PL, Douse CH, **Hsieh PH**, Pontis J, Grassi D, Garza R, Jönsson ME, Atacho DAM, Pircs K, Eren F, Sharma Y, Johansson J, Trono D, Eichler EE, Jakobsson J. (2020) A human-specific structural variation at the *ZNF558* locus controls a gene regulatory network during forebrain development. *bioRxiv* 2020.08.18.255562 (*In revision*) [Link](https://doi.org/10.1101/2020.08.18.255562){: .btn .btn--info .btn--small}
 {: .notice--info}
 
-Wilfert AB, Turner TN, Murali SC, **Hsieh PH**, Sulovari A, Wang T, Coe BP, Guo H, Hoekzema K, Bakken TE, Winterkorn LH, Evani US, Byrska-Bishop M, Earl RK, Bernier RA, Zody MC, Eichler EE, SPARK Consortium. (2020) Recent ultra-rare inherited mutations identify novel autism candidate risk genes. *bioRxiv* 2020.02.10.932327 (In revision) [Link](https://doi.org/10.1101/2020.02.10.932327){: .btn .btn--info .btn--small}
+Wilfert AB, Turner TN, Murali SC, **Hsieh PH**, Sulovari A, Wang T, Coe BP, Guo H, Hoekzema K, Bakken TE, Winterkorn LH, Evani US, Byrska-Bishop M, Earl RK, Bernier RA, Zody MC, Eichler EE, SPARK Consortium. (2020) Recent ultra-rare inherited mutations identify novel autism candidate risk genes. *bioRxiv* 2020.02.10.932327 (In review) [Link](https://doi.org/10.1101/2020.02.10.932327){: .btn .btn--info .btn--small}
 {: .notice--info}
 
 
