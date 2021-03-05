@@ -24,7 +24,7 @@ feature_row1-1:
     btn_class: "btn--primary"
 
 feature_row1-2:
-  - image_path: /assets/images/Fig1_TCAF_browsershot_CN_scatterplot_pieChart.HGDP.v5.png
+  - image_path: /assets/images/Fig1_TCAF_browsershot_CN_scatterplot_pieChart.HGDP.v6.png
     alt: "102"
     title: "Learning Evolution using Statistical Modeling"
     text: "DNA variation data record useful information about the evolution of organisms. I design and apply quantitative and statistical methods to reconstruct the evolutionary history in human and nonhuman primates as well as other organisms. Understanding evolution is a critical step towards understanding the biological world that we live in and helps us to understand the past and predict the future."
