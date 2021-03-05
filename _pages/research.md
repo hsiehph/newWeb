@@ -12,7 +12,7 @@ feature_row1-1:
     alt: "101"
     title: "Genome Evolution of Structural Variants"
     text: "Structural variants are large (>50 bp) mutations, including deletions, insertions, and inversions, that more likely result in changes in phenotypes than single nucleotide variants (SNVs) and, thus, are subject to natural selection and important in adaptations. I use long-read sequencing to resolve complex SVs, apply phylogenetic and population genetic methods to infer their evolution, and design statistical models to interpret their potential functional roles in humans."
-    url: ""https://science.sciencemag.org/content/366/6463/eaax2083
+    url: "https://science.sciencemag.org/content/366/6463/eaax2083"
     btn_label: "Adaptive SV introgression in humans"
     btn_class: "btn--primary"
     url2: "https://assets.researchsquare.com/files/rs-77798/v1_stamped.pdf"
@@ -21,7 +21,6 @@ feature_row1-1:
     url3: "https://www.nature.com/articles/s41588-020-0646-x"
     btn_label3: "Recurrnt inversion in great apes"
     btn_class: "btn--primary"
-
 
 feature_row1-2:
   - image_path: /assets/images/portfolio/retention_rates.png
@@ -38,13 +37,12 @@ feature_row1-2:
     btn_label3: "Evolution and Speciation of Deseat Tortoise"
     btn_class: "btn--primary"
 
-
 feature_row1-3:
   - image_path: /assets/images/portfolio/purchase-analytics-1200.jpg
     alt: "103"
     title: "Delinating Genomics and Evolution using Long-Read Sequencing"
     text: "20 years after the first draft of human genome, thank to the recent development of long-read sequencing technologies, we now finally have the ability to assemble diploid genomes and study complex genomic regions for the first. This enables us to better capture the genetic diversity of our species and to delinate variants in complex regions that short-read data cannot ascertain. As part of the efforts by on genetic predispositions to human diseases as well as the discovery of more complex forms of genetic variation"
-    url: ""https://science.sciencemag.org/content/366/6463/eaax2083
+    url: "https://science.sciencemag.org/content/366/6463/eaax2083"
     btn_label: "Adaptive SV introgression in humans"
     btn_class: "btn--primary"
     url2: "https://science.sciencemag.org/content/early/2021/02/24/science.abf7117"
@@ -53,7 +51,6 @@ feature_row1-3:
     url3: "https://www.biorxiv.org/content/10.1101/2020.09.08.285395v1.full"
     btn_label3: "First Linear Assembly of Human Autosome"
     btn_class: "btn--primary"
-
 
 feature_row1-4:
   - image_path: /assets/images/portfolio/Tableau-dashboard-1200.jpg
