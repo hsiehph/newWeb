@@ -12,7 +12,7 @@ feature_row1-1:
   - image_path: /assets/images/Fig2_SummaryFigure_aax2083.v4.copy.png
     alt: "101"
     title: "Genome Evolution of Structural Variants"
-    text: "Structural variants (SVs) are large (>50 bp) mutations, e.g., deletions, insertions, and inversions, that more likely change in phenotypes than single nucleotide variants (SNVs) and, thus, are subject to natural selection and important in evolution. I use long-read sequencing to resolve complex SVs, apply phylogenetic and population genetic methods to infer their evolutionary histories, and design statistical models to determine their functional significance in organisms."
+    text: "Structural variants (SVs) are large (>50 bp) mutations, e.g., deletions, insertions, and inversions, that more likely change phenotypes than single nucleotide variants (SNVs) and, thus, are subject to natural selection and important in evolution. I use long-read sequencing to resolve complex SVs, apply phylogenetic and population genetic methods to infer their evolutionary histories, and design statistical models to determine their functional significance in organisms."
     url: "https://science.sciencemag.org/content/366/6463/eaax2083"
     btn_label: "Adaptive SV Introgression in Humans"
     btn_class: "btn--primary"
@@ -45,7 +45,7 @@ feature_row1-3:
   - image_path: /assets/images/scienceGraphAbst_v7.PH.png
     alt: "103"
     title: "Delinating Genome Diversity and Evolution using Long-Read Sequencing"
-    text: "20 years after the first draft of human genome, thank to the recent development of long-read sequencing technologies, we now finally have the ability to assemble diploid genomes and study complex genomic regions for the first. This enables us to better capture the genetic diversity of our species and to delinate variants in complex regions that short-read data cannot ascertain. As part of the efforts by on genetic predispositions to human diseases as well as the discovery of more complex forms of genetic variation"
+    text: "20 years after the first draft of human genome, with the recent development of long-read sequencing, we now finally have the ability to assemble diploid genomes and study complex genomic regions for the first time. As part of efforts from the Human Genome Structural Variation and Human Pangenome Reference Consortia, my research program leverages these resources to better capture the genetic diversity of our species, especially in regions of more complex forms of variation that short-read data cannot ascertain."
     url: "https://science.sciencemag.org/content/366/6463/eaax2083"
     btn_label: "Adaptive SV Introgression in Humans"
     btn_class: "btn--primary"
