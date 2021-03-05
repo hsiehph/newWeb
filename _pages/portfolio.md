@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Research"
-permalink: /research/
+title: "Portfolio"
+permalink: /portfolio/
 header:
     overlay_image: /assets/images/101516_hybrids_opener_free.JamesCarey.v5.png
     caption: "Photo credit: [James Carey](https://https://www.debutart.com/artist/james-carey)"
