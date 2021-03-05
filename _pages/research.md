@@ -44,7 +44,7 @@ feature_row1-2:
 feature_row1-3:
   - image_path: /assets/images/scienceGraphAbst_v7.PH.png
     alt: "103"
-    title: "Delinating Genome Diversity and Evolution using Long-Read Sequencing"
+    title: "Delineating Genome Diversity and Evolution using Long-Read Sequencing"
     text: "20 years after the first draft of human genome, with the recent development of long-read sequencing, we now finally have the ability to assemble diploid genomes and study complex genomic regions for the first time. As part of efforts from the Human Genome Structural Variation and Human Pangenome Reference Consortia, my research program leverages these resources to better capture the genetic diversity of our species, especially in regions of more complex forms of variation that short-read data cannot ascertain."
     url: "https://science.sciencemag.org/content/366/6463/eaax2083"
     btn_label: "Adaptive SV Introgression in Humans"
@@ -60,7 +60,7 @@ feature_row1-4:
   - image_path: /assets/images/Fig1_Inference_Polygenic_and_Autism.pdf.v3.png
     alt: "104"
     title: "Evolutionary Medicine"
-    text: "Evolution is critical for understanding human health, from how populations adapt to different environmental niches and against pathogens to the genetic predisposition to diseases. Using population genetics methods, we identified genetic variants that may affect bone and muscle synthesis in African pygmies as well as those involved in fat metabolism that could contribute to the cold adaptation in Siberian hunter–gatherers. In a large cohort of autism families, we demonstrated that ultra-rare likely-gene disruptive variants in probands are significantly younger than those same type of varaints in siblings and that many such variants are under strong purifying selection and act on a distinct set of genes not yet associated with autism."
+    text: "Evolution is critical for understanding human health, from how populations adapt to different environmental niches and against pathogens to the genetic predisposition to diseases. Using population genetics methods, we identified genetic variants that may affect bone and muscle synthesis in African pygmies as well as those involved in fat metabolism that could contribute to the cold adaptation in Siberian hunter–gatherers. In a large cohort of autism families, we demonstrated that ultra-rare likely-gene disruptive variants in probands are significantly younger than those same type of variants in siblings and that many such variants are under strong purifying selection and act on a distinct set of genes not yet associated with autism."
     url: "https://www.biorxiv.org/content/10.1101/2020.02.10.932327v1.full"
     btn_label: "Evolutionary Medicine - Autism"
     btn_class: "btn--primary"
