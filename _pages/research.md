@@ -9,7 +9,7 @@ author_profile: true
 classes: wide 
 
 feature_row1-1:
-  - image_path: assets/images/posts/Fig2_SummaryFigure_aax2083.v3.copy.png
+  - image_path: /assets/images/posts/Fig2_SummaryFigure_aax2083.v3.copy.png
     alt: "101"
     title: "Genome Evolution of Structural Variants"
     text: "Structural variants (SVs) are large (>50 bp) mutations, e.g., deletions, insertions, and inversions, that more likely change in phenotypes than single nucleotide variants (SNVs) and, thus, are subject to natural selection and important in evolution. I use long-read sequencing to resolve complex SVs, apply phylogenetic and population genetic methods to infer their evolutionary histories, and design statistical models to determine their functional significance in organisms."
