@@ -13,9 +13,9 @@ feature_row1-1:
     title: "Genome Evolution of Structural Variants"
     text: "Structural variants are large (>50 bp) mutations, including deletions, insertions, and inversions, that more likely result in changes in phenotypes than single nucleotide variants (SNVs) and, thus, are subject to natural selection and important in adaptations. I use long-read sequencing to resolve complex SVs, apply phylogenetic and population genetic methods to infer their evolution, and design statistical models to interpret their potential functional roles in humans."
     url: ""https://science.sciencemag.org/content/366/6463/eaax2083
-	btn_label: "Adaptive SV introgression in humans"
-	btn_class: "btn--primary"
-	url2: "https://assets.researchsquare.com/files/rs-77798/v1_stamped.pdf"
+    btn_label: "Adaptive SV introgression in humans"
+    btn_class: "btn--primary"
+    url2: "https://assets.researchsquare.com/files/rs-77798/v1_stamped.pdf"
     btn_label2: "Thermoregulatory gene *TCAF*s expansion"
     btn_class: "btn--primary"
     url3: "https://www.nature.com/articles/s41588-020-0646-x"
@@ -45,8 +45,8 @@ feature_row1-3:
     title: "Delinating Genomics and Evolution using Long-Read Sequencing"
     text: "20 years after the first draft of human genome, thank to the recent development of long-read sequencing technologies, we now finally have the ability to assemble diploid genomes and study complex genomic regions for the first. This enables us to better capture the genetic diversity of our species and to delinate variants in complex regions that short-read data cannot ascertain. As part of the efforts by on genetic predispositions to human diseases as well as the discovery of more complex forms of genetic variation"
     url: ""https://science.sciencemag.org/content/366/6463/eaax2083
-	btn_label: "Adaptive SV introgression in humans"
-	btn_class: "btn--primary"
+    btn_label: "Adaptive SV introgression in humans"
+    btn_class: "btn--primary"
     url2: "https://science.sciencemag.org/content/early/2021/02/24/science.abf7117"
     btn_label2: "Haplotype-resolved Diverse Human Genomes"
     btn_class2: "btn--primary"
