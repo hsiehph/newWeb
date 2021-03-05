@@ -44,7 +44,7 @@ feature_row1-2:
 feature_row1-3:
   - image_path: /assets/images/scienceGraphAbst_v7.PH.png
     alt: "103"
-    title: "Delinating Genomics and Evolution using Long-Read Sequencing"
+    title: "Delinating Genome Diversity and Evolution using Long-Read Sequencing"
     text: "20 years after the first draft of human genome, thank to the recent development of long-read sequencing technologies, we now finally have the ability to assemble diploid genomes and study complex genomic regions for the first. This enables us to better capture the genetic diversity of our species and to delinate variants in complex regions that short-read data cannot ascertain. As part of the efforts by on genetic predispositions to human diseases as well as the discovery of more complex forms of genetic variation"
     url: "https://science.sciencemag.org/content/366/6463/eaax2083"
     btn_label: "Adaptive SV Introgression in Humans"
