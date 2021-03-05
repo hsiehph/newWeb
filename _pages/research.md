@@ -57,7 +57,7 @@ feature_row1-3:
     btn_class: "btn--primary"
 
 feature_row1-4:
-  - image_path: /assets/images/Fig1_Inference_Polygenic_and_Autism.pdf.v2.png
+  - image_path: /assets/images/Fig1_Inference_Polygenic_and_Autism.pdf.v3.png
     alt: "104"
     title: "Evolutionary Medicine"
     text: "Evolution is critical for understanding human health, from how populations adapt to different environmental niches and against pathogens to the genetic predisposition to diseases. Using population genetics methods, we identified genetic variants that may affect bone and muscle synthesis in African pygmies as well as those involved in fat metabolism that could contribute to the cold adaptation in Siberian hunter–gatherers. In a large cohort of autism families, we demonstrated that ultra-rare likely-gene disruptive variants in probands are significantly younger than those same type of varaints in siblings and that many such variants are under strong purifying selection and act on a distinct set of genes not yet associated with autism."
