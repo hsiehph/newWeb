@@ -9,10 +9,10 @@ author_profile: true
 classes: wide 
 
 feature_row1-1:
-  - image_path: assets/images/posts/starbucks-cluster-conversion-rates.png
+  - image_path: assets/images/posts/Fig2_SummaryFigure_aax2083.v3.copy.png
     alt: "101"
     title: "Genome Evolution of Structural Variants"
-    text: "Structural variants are large (>50 bp) mutations, including deletions, insertions, and inversions, that more likely result in changes in phenotypes than single nucleotide variants (SNVs) and, thus, are subject to natural selection and important in adaptations. I use long-read sequencing to resolve complex SVs, apply phylogenetic and population genetic methods to infer their evolution, and design statistical models to interpret their potential functional roles in humans."
+    text: "Structural variants (SVs) are large (>50 bp) mutations, e.g., deletions, insertions, and inversions, that more likely change in phenotypes than single nucleotide variants (SNVs) and, thus, are subject to natural selection and important in evolution. I use long-read sequencing to resolve complex SVs, apply phylogenetic and population genetic methods to infer their evolutionary histories, and design statistical models to determine their functional significance in organisms."
     url: "https://science.sciencemag.org/content/366/6463/eaax2083"
     btn_label: "Adaptive SV Introgression in Humans"
     btn_class: "btn--primary"
@@ -24,22 +24,25 @@ feature_row1-1:
     btn_class: "btn--primary"
 
 feature_row1-2:
-  - image_path: /assets/images/portfolio/retention_rates.png
+  - image_path: /assets/images/portfolio/Fig1_TCAF_browsershot_CN_scatterplot_pieChart.HGDP.v5
     alt: "102"
     title: "Learning Evolution using Statistical Modeling"
-    text: "DNA variation data record useful information about the evolution of organisms. I design and apply quantitative and statistical methods to reconstruct the evolutionary history in human and nonhuman primates as well as other organisms. Understanding evolution is a critical step towards understanding the biological world that we live in and provide a guidance to study medicine and human health."
+    text: "DNA variation data record useful information about the evolution of organisms. I design and apply quantitative and statistical methods to reconstruct the evolutionary history in human and nonhuman primates as well as other organisms. Understanding evolution is a critical step towards understanding the biological world that we live in and helps us to understand the past and predict the future."
     url: "https://genome.cshlp.org/content/26/3/291.short"
     btn_label: "Human Origin in Africa"
     btn_class: "btn--primary"
-    url2: "https://academic.oup.com/mbe/article/34/11/2913/4098817?login=true"
-    btn_label2: "Human Evolution in Cold Environments"
+    url2: "https://assets.researchsquare.com/files/rs-77798/v1_stamped.pdf"
+    btn_label2: "Human-specific Expansion of Thermoregulatory Genes"
     btn_class: "btn--primary"
-    url3: "https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.1865"
-    btn_label3: "Evolution and Speciation of Deseat Tortoise"
+    url3: "https://academic.oup.com/mbe/article/34/11/2913/4098817?login=true"
+    btn_label3: "Human Evolution in Cold Environments"
+    btn_class: "btn--primary"
+    url4: "https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.1865"
+    btn_label4: "Evolution and Speciation of Deseat Tortoise"
     btn_class: "btn--primary"
 
 feature_row1-3:
-  - image_path: /assets/images/portfolio/purchase-analytics-1200.jpg
+  - image_path: /assets/images/portfolio/scienceGraphAbst_v7.PH
     alt: "103"
     title: "Delinating Genomics and Evolution using Long-Read Sequencing"
     text: "20 years after the first draft of human genome, thank to the recent development of long-read sequencing technologies, we now finally have the ability to assemble diploid genomes and study complex genomic regions for the first. This enables us to better capture the genetic diversity of our species and to delinate variants in complex regions that short-read data cannot ascertain. As part of the efforts by on genetic predispositions to human diseases as well as the discovery of more complex forms of genetic variation"
@@ -54,7 +57,7 @@ feature_row1-3:
     btn_class: "btn--primary"
 
 feature_row1-4:
-  - image_path: /assets/images/portfolio/Tableau-dashboard-1200.jpg
+  - image_path: /assets/images/portfolio/Fig1_Inference_Polygenic_and_Autism.pdf.v2
     alt: "104"
     title: "Evolutionary Medicine"
     text: "Evolution is critical for understanding human health, from how populations adapt to different environmental niches and against pathogens to the genetic predisposition to diseases. Using population genetics methods, we identified genetic variants that may affect bone and muscle synthesis in African pygmies as well as those involved in fat metabolism that could contribute to the cold adaptation in Siberian hunter–gatherers. In a large cohort of autism families, we demonstrated that ultra-rare likely-gene disruptive variants in probands are significantly younger than those same type of varaints in siblings and that many such variants are under strong purifying selection and act on a distinct set of genes not yet associated with autism."

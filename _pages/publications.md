@@ -7,7 +7,6 @@ header:
     overlay_image: /assets/images/101516_hybrids_opener_free.JamesCarey.v5.png
     caption: "Photo credit: [James Carey](https://https://www.debutart.com/artist/james-carey)"
 ---
-
 ### Preprints
 
 **Hsieh PH**, Dang V, Vollger MR, Mao Y, Huang T, Dishuck PC, Baker C, Cantsilieris S, Lewis AP, Munson KM, Sorensen M, Welch AE, Underwood JG, Eichler EE. (2020) Opposing selective forces operating on human-specific duplicated *TCAF* genes in Neanderthals and humans. (*In revision*) [Link](https://assets.researchsquare.com/files/rs-77798/v1_stamped.pdf){: .btn .btn--info .btn--small}
