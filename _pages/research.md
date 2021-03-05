@@ -9,7 +9,7 @@ author_profile: true
 
 feature_row1-1:
   - image_path: assets/images/posts/starbucks-cluster-conversion-rates.png
-    alt: ""
+    alt: "101"
     title: "Genome Evolution of Structural Variants"
     text: "Structural variants are large (>50 bp) mutations, including deletions, insertions, and inversions, that more likely result in changes in phenotypes than single nucleotide variants (SNVs) and, thus, are subject to natural selection and important in adaptations. I use long-read sequencing to resolve complex SVs, apply phylogenetic and population genetic methods to infer their evolution, and design statistical models to interpret their potential functional roles in humans."
     url: ""https://science.sciencemag.org/content/366/6463/eaax2083
@@ -25,7 +25,7 @@ feature_row1-1:
 
 feature_row1-2:
   - image_path: /assets/images/portfolio/retention_rates.png
-    alt: ""
+    alt: "102"
     title: "Learning Evolution using Statistical Modeling"
     text: "DNA variation data record useful information about the evolution of organisms. I design and apply quantitative and statistical methods to reconstruct the evolutionary history in human and nonhuman primates as well as other organisms. Understanding evolution is a critical step towards understanding the biological world that we live in and provide a guidance to study medicine and human health."
     url: "https://genome.cshlp.org/content/26/3/291.short"
@@ -41,7 +41,7 @@ feature_row1-2:
 
 feature_row1-3:
   - image_path: /assets/images/portfolio/purchase-analytics-1200.jpg
-    alt: ""
+    alt: "103"
     title: "Delinating Genomics and Evolution using Long-Read Sequencing"
     text: "20 years after the first draft of human genome, thank to the recent development of long-read sequencing technologies, we now finally have the ability to assemble diploid genomes and study complex genomic regions for the first. This enables us to better capture the genetic diversity of our species and to delinate variants in complex regions that short-read data cannot ascertain. As part of the efforts by on genetic predispositions to human diseases as well as the discovery of more complex forms of genetic variation"
     url: ""https://science.sciencemag.org/content/366/6463/eaax2083
@@ -57,7 +57,7 @@ feature_row1-3:
 
 feature_row1-4:
   - image_path: /assets/images/portfolio/Tableau-dashboard-1200.jpg
-    alt: ""
+    alt: "104"
     title: "Evolutionary Medicine"
     text: "Evolution is critical for understanding human health, from how populations adapt to different environmental niches and against pathogens to the genetic predisposition to diseases. Using population genetics methods, we identified genetic variants that may affect bone and muscle synthesis in African pygmies as well as those involved in fat metabolism that could contribute to the cold adaptation in Siberian hunter–gatherers. In a large cohort of autism families, we demonstrated that ultra-rare likely-gene disruptive variants in probands are significantly younger than those same type of varaints in siblings and that many such variants are under strong purifying selection and act on a distinct set of genes not yet associated with autism."
     url: "https://genome.cshlp.org/content/26/3/279.short"
