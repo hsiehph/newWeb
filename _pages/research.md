@@ -62,7 +62,7 @@ feature_row1-4:
     title: "Evolutionary Medicine"
     text: "Evolution is critical for understanding human health, from how populations adapt to different environmental niches and against pathogens to the genetic predisposition to diseases. Using population genetics methods, we identified genetic variants that may affect bone and muscle synthesis in African pygmies as well as those involved in fat metabolism that could contribute to the cold adaptation in Siberian hunter–gatherers. In a large cohort of autism families, we demonstrated that ultra-rare likely-gene disruptive variants in probands are significantly younger than those same type of varaints in siblings and that many such variants are under strong purifying selection and act on a distinct set of genes not yet associated with autism."
     url: "https://www.biorxiv.org/content/10.1101/2020.02.10.932327v1.full"
-    btn_label: "Evolutionary Medicine in Autism"
+    btn_label: "Evolutionary Medicine - Autism"
     btn_class: "btn--primary"
     url2: "https://academic.oup.com/mbe/article/34/11/2913/4098817?login=true"
     btn_label2: "Human Evolution in Cold Environments"
