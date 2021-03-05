@@ -19,7 +19,7 @@ feature_row1-1:
     btn_label2: "Thermoregulatory gene *TCAF*s expansion"
     btn_class: "btn--primary"
     url3: "https://www.nature.com/articles/s41588-020-0646-x"
-    btn_label2: "Recurrnt inversion in great apes"
+    btn_label3: "Recurrnt inversion in great apes"
     btn_class: "btn--primary"
 
 
@@ -49,10 +49,10 @@ feature_row1-3:
     btn_class: "btn--primary"
     url2: "https://science.sciencemag.org/content/early/2021/02/24/science.abf7117"
     btn_label2: "Haplotype-resolved Diverse Human Genomes"
-    btn_class2: "btn--primary"
+    btn_class: "btn--primary"
     url3: "https://www.biorxiv.org/content/10.1101/2020.09.08.285395v1.full"
     btn_label3: "First Linear Assembly of Human Autosome"
-    btn_class3: "btn--primary"
+    btn_class: "btn--primary"
 
 
 feature_row1-4:
@@ -69,9 +69,6 @@ feature_row1-4:
     url3: "https://www.biorxiv.org/content/10.1101/2020.02.10.932327v1.full"
     btn_label3: "Evolutionary Medicine in Autism"
     btn_class: "btn--primary"
-
-
-
 ---
 
 {% include feature_row id="feature_row1-1" type="left" %}
